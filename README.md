@@ -1,2 +1,4 @@
 # devsecops-homelab
-Here I am running along a path towards a DevSecOps Engineer.
+This repo documents my approach to upskill towards a DevSecOps Engineer.
+
+The roadmap is simple and listed here, updating it, whenever needed.
